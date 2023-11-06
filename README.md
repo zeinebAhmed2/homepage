@@ -3,9 +3,12 @@
 <h2>👨‍💻 ITS Projects:</h2>
 
 - <b>Project Andromeda (Pentest)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analysis](https://github.com/zeinebAhmed2/#)
+  - [Mitigation](https://github.com/zeinebAhmed2/#)
+  - [Response](https://github.com/zeinebAhmed2/#)
 - <b>Database Security and Audit</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Database vulnerability Assesment](https://github.com/zeinebAhmed2/#)
+  - [Hardening Practices](https://github.com/zeinebAhmed2/#)
 - <b>Web Developer</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -26,8 +29,6 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
