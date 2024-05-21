@@ -3,10 +3,10 @@
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-- <b><a href="https://github.com/zeinebAhmed2/#"/>NCyTE Virtual Cybersecurity Career Challenge</a></b>
+- <b><a href="https://github.com/zeinebAhmed2/NCyTE-Cybersecurity-Career-Challenge"/>NCyTE Virtual Cybersecurity Career Challenge</a></b>
 
 - <b><a href="https://github.com/zeinebAhmed2/ProjectAndromeda"/>Highline College Project Andromeda</a></b>
-- <b><a href="https://github.com/zeinebAhmed2/#"/>Highline College MS SQL Server DBMS Project</a></b>
+- <b><a href="https://github.com/zeinebAhmed2/SQL-DBMS"/>Highline College MS SQL Server DBMS Project</a></b>
 - <b><a href="https://github.com/zeinebAhmed2/#"/>Web development using Wordpress</a></b>
 
 
